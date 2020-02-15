@@ -1,3 +1,27 @@
+# LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+.Rhistory
+.DS_Store
+*.ipynb_checkpoints
+
+# folders, files and tokens
+new_hw/
+nda/
+*solving.ipynb
+*solve.ipynb
+*solve.pdf
+secret_token.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
