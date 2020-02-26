@@ -16,7 +16,6 @@
 # folders, files and tokens
 new_hw/
 nda/
-*solving.ipynb
 *solve.ipynb
 *solve.pdf
 secret_token.txt
