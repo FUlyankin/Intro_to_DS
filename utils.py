@@ -22,10 +22,7 @@ def create_unsolved(dirs, file_solution_marking='solution', solution_start='SOLU
     ```
     
     """
-    
-    
-    
-    
+   
     import os
     import sys
     import nbformat
