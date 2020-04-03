@@ -14,7 +14,7 @@
 
 * Любые вопросы можно задать в чат с технической поддержкой. Найдите нужный и вступите в него:
 
-[![TG1](https://img.shields.io/badge/Telegram-BMM--chat-blue)]( ) [![TG2](https://img.shields.io/badge/Telegram-UB--chat-blue)]( ) [![TG3](https://img.shields.io/badge/Telegram-канал%20с%20объявлениями-blue)](https://t.me/joinchat/AAAAAFOM9KQKry-GHEPIfQ)
+[![TG1](https://img.shields.io/badge/Telegram-BMM--chat-blue)]( ) [![TG2](https://img.shields.io/badge/Telegram-UB--chat-blue)]( ) [![TG3](https://img.shields.io/badge/Telegram-канал%20с%20объявлениями-blue)](https://bit.ly/2xQpHNZ)
 
 
 ## Перед стартом курса:
