@@ -14,10 +14,7 @@
 *.ipynb_checkpoints
 
 # folders, files and tokens
-new_hw/
 nda/
-*solve.ipynb
-*solve.pdf
 secret_token.txt
 
 
