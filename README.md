@@ -14,23 +14,18 @@
 
 * Любые вопросы можно задать в чат с технической поддержкой. Найдите нужный и вступите в него:
 
-
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Slack](https://img.shields.io/badge/slack-ods.ai-orange)](https://opendatascience.slack.com/archives/C91N8TL83/p1567408586359500)
-[![Donate](https://img.shields.io/badge/support-patreon-red)](https://www.patreon.com/ods_mlcourse)
-[![Donate](https://img.shields.io/badge/support-ko--fi-red)](https://ko-fi.com/mlcourse_ai)
-
+[![TG1](https://img.shields.io/badge/Telegram-BMM--chat-blue)]( ) [![TG2](https://img.shields.io/badge/Telegram-UB--chat-blue)]( ) [![TG3](https://img.shields.io/badge/Telegram-канал%20с%20объявлениями-blue)](https://t.me/joinchat/AAAAAFOM9KQKry-GHEPIfQ)
 
 
 ## Перед стартом курса:
 
-📦 __Установите себе на компьютер anaconda.__ Это среда, в которой мы будем работать.
+-[📦] __Установите себе на компьютер anaconda.__ Это среда, в которой мы будем работать.
 
 > Тут будут ссылки на скринкасты с видосами
 
-📦 Заведите себе anytask. Туда мы будем сдавать домашние работы.
-📦 Что-то полезное про contest
-📦 Введите в anytask инвайт для своей группы:
+-[📦] Заведите себе anytask. Туда мы будем сдавать домашние работы.
+-[📦] Что-то полезное про contest
+-[📦] Введите в anytask инвайт для своей группы:
 
 > Тут будут инвайты
 
