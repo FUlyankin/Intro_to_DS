@@ -27,8 +27,6 @@
 
 5. Любые вопросы можно задать в чат с технической поддержкой. Найдите нужный и вступите в него:
 
-> Тут ссылки на студенческие чаты в телеге
-
 
 ## Домашние задания
 
@@ -89,16 +87,16 @@ __Задумка:__  ввелись в python, а затем прошлись п
 
 ## Контрибьюторы и создатели
 
-* [Беднарский Роман](https://github.com/Bromanskiy): лекции, материалы
-* [Теванян Элен](https://github.com/elentevanyan): лекции, семинары, материалы
+* [Беднарский Роман](https://github.com/Bromanskiy): лекции, notebooks
+* [Теванян Элен](https://github.com/elentevanyan): лекции, семинары, notebooks
 
-* [Степанюк Ира](https://github.com/idStep): семинары, материалы
-* [Кутынина Катя](https://github.com/EkaterinaKut): семинары, материалы
-* [Ахматнуров Марат](https://github.com/maratakhm): семинары, материалы
-* [Попенова Полина](https://github.com/polyhex-sqr): семинары, материалы
-* [Ульянкин Пилиф](https://github.com/FUlyankin): семинары, материалы
-* [Максимовская Настя](https://github.com/AnastasiyaMax): семинары, материалы
-* [Ярослав Старухин](https://github.com/star-yar): материалы
+* [Степанюк Ира](https://github.com/idStep): семинары, notebooks
+* [Кутынина Катя](https://github.com/EkaterinaKut): семинары, notebooks
+* [Ахматнуров Марат](https://github.com/maratakhm): семинары, notebooks
+* [Попенова Полина](https://github.com/polyhex-sqr): семинары, notebooks
+* [Ульянкин Пилиф](https://github.com/FUlyankin): семинары, notebooks
+* [Максимовская Настя](https://github.com/AnastasiyaMax): семинары, notebooks
+* [Ярослав Старухин](https://github.com/star-yar): notebooks
 
 
 ## Лицензия
