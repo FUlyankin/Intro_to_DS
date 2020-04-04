@@ -29,8 +29,6 @@
 
 > Тут будут инвайты
 
-[![Введение в python](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yandexdataschool/Practical_DL/master)
-
 
 ## Домашние задания
 
