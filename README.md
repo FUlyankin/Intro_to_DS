@@ -20,13 +20,15 @@
 ## Перед стартом курса:
 
 - 📦 __Установите себе на компьютер anaconda.__ Это среда, в которой мы будем работать.  
-  _Windows_
-  - [как установить](https://docs.google.com/presentation/d/1CBm-pUOpL6baoGbxggi-YEuG_GJVG5eMXgQK9syfRic/edit?usp=sharing)
-  - [как открыть 1ый семинар](https://docs.google.com/presentation/d/1Ll0XS6TQcsyYNa925ADrIzDbhkQ3_Ca6cy6l1ZeDEQc/edit?usp=sharing)  
-  > Тут будут скринкасты для _macOS_
+  - как установить:
+  [Windows](https://github.com/FUlyankin/Intro_to_DS/blob/master/pdfs/install_conda_windows.pdf)
+  [macOS](https://github.com/FUlyankin/Intro_to_DS/blob/master/pdfs/Anaconda%20installation%20guide_MacOS.pdf)
+  - как открыть 1ый семинар:
+  [Windows](https://github.com/FUlyankin/Intro_to_DS/blob/master/pdfs/download_and_open_sem01_windows.pdf)
+  [macOS](https://github.com/FUlyankin/Intro_to_DS/blob/master/pdfs/Jupyter%20Notebook%20guide_MacOS.pdf)  
 - 📦 Заведите себе anytask. Туда мы будем сдавать домашние работы.
 - 📦 Часть домашних заданий сдаётся в систему Яндекс.Контест. На почты вам будут разосланы логины и пароли от неё.
-  - [как зайти в контест и решить тествое соревнование]( )
+  - [как зайти в контест и решить тествое соревнование](https://github.com/FUlyankin/Intro_to_DS/blob/master/pdfs/test_contest.pdf)
   - [ссылка на тестовое соревнование](https://official.contest.yandex.ru/contest/17883/enter)
 - 📦 Вторая часть заданий будет сдаваться в [anytask.](anytask.org) После первой лекции мы попросим в нём зарегистрироваться и ввести инвайт для своей группы: 
 
