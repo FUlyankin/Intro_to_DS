@@ -51,7 +51,7 @@
 
 ## Лекции
 
-[Скачать]( ) все доступные лекции без смс и регистрации
+[Найти](https://drive.google.com/drive/folders/1zdmzkIQ2TyS2_DnYz2gWXoFEjuzKrLBu?usp=sharing) все доступные лекции без смс и регистрации
 
 
 ## Большой план маленьких побед
