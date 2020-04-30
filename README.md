@@ -9,6 +9,8 @@
 * Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home) Кнопка "скачать" есть в README к каждой неделе.
 * Wiki-страница курса
 * [Таблица с оценками](https://docs.google.com/spreadsheets/d/1nIoy3AaZrnjKZDwpXIU4ZPSUFXFnWPJn5kvZqoaZTBo/edit?usp=sharing)
+* [Видео записи семинаров и лекций](https://www.youtube.com/playlist?list=PLEwK9wdS5g0pixLb-HKfEePW03IqYWdrZ)
+
 
 * Любые вопросы можно задать в чат с технической поддержкой. Найдите нужный и вступите в него:
 
