@@ -60,13 +60,13 @@
 | домашка                         |     решение       |  стоимость |
 |:-------------------------------:|:-----------------:|:----------:|
 |   Введение в python             |   [решение](https://nbviewer.jupyter.org/github/FUlyankin/Intro_to_DS/blob/master/hw_solutions/HW01_basepython_solution.ipynb)                |    10      |
-|   Работа в pandas               |                   |    10      |
+|   Работа в pandas               |   решения не будет                |    10      |
 |   Описательные статистики       |   [решение](https://nbviewer.jupyter.org/github/FUlyankin/Intro_to_DS/blob/master/hw_solutions/HW03_pandasMedium_solution.ipynb)                |    10      |
 |   Визуализация                  |   [решение](https://nbviewer.jupyter.org/github/FUlyankin/Intro_to_DS/blob/master/hw_solutions/HW04_visualization_solution.ipynb)                |    20      |
 |   Регрессия                     |   [решение](https://nbviewer.jupyter.org/github/FUlyankin/Intro_to_DS/blob/master/hw_solutions/HW05_regression_solution.ipynb)                |    20      |
-|   Классификация                 |                   |    10      |
-|   АБ-тестирование               |                   |    10      |
-| Групповой кекс (кекс по группам)|                   |    10      |
+|   Классификация                 |  [решение](https://github.com/FUlyankin/Intro_to_DS/blob/master/hw_solutions/HW06_classification_ans.ipynb)                 |    10      |
+|   АБ-тестирование               |  Отменена          |    10      |
+| Групповой кекс (кекс по группам)|  решения не будет         |    10      |
 
 
 ## Лекции
